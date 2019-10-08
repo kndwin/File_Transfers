@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">File Transfers</string>
+    <string name="client">Client</string>
+    <string name="developer">Developer</string>
+    <string name="download_file">Download File</string>
+    <string name="status">Status</string>
+    <string name="updateStatusString">Ready to connect</string>
+</resources>
